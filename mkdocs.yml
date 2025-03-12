@@ -25,6 +25,23 @@ nav:
       - Baseline: Base/DesignSprint/Requisitos/Baseline.md
       - Brainstorming: Base/DesignSprint/Requisitos/Brainstorming.md
       - Introspecção: Base/DesignSprint/Requisitos/Introspeccao.md
+  - 2. Modelagem:
+    - Desenho de Software (Modelagem): Modelagem/2.Modelagem.md
+    - 2.1. Modelagem Estática:
+      - Módulo Modelagem Estática: Modelagem/ModelagemEstatica/2.1.ModelagemEstatica.md
+      - Diagrama de Classes: Modelagem/ModelagemEstatica/DiagramaClasses.md
+      - Diagrama de Componentes: Modelagem/ModelagemEstatica/DiagramaComponentes.md
+    - 2.2. Modelagem Dinâmica:
+      - Módulo Modelagem Dinâmica: Modelagem/ModelagemDinamica/2.2.ModelagemDinamica.md
+      - Diagrama de Sequência: Modelagem/ModelagemDinamica/DiagramaSequencia.md
+      - Diagrama de Estados: Modelagem/ModelagemDinamica/DiagramaDeEstados.md
+      - Diagrama de Atividades: Modelagem/ModelagemDinamica/Diagrama_de_atividades.md
+    - 2.3. Modelagem Organizacional:
+      - Módulo Modelagem Organizacional: Modelagem/ModelagemOrganizacional/2.3.ModelagemOrganizacionalCasosDeUso.md
+      - Casos de Uso Geral: Modelagem/ModelagemOrganizacional/DiagramaCasosDeUsoGeral.md
+      - Casos de Uso Cliente: Modelagem/ModelagemOrganizacional/CasosDeUsoCliente.md
+      - Casos de Uso Loja: Modelagem/ModelagemOrganizacional/DiagramaCasosDeUsoLoja.md
+      - Casos de Uso Entregador: Modelagem/ModelagemOrganizacional/CasosDeUsoEntregador.md
   # - Modelagem:
   # - Padrões de Projeto:
   # - Documento de Arquitetura de Software:
