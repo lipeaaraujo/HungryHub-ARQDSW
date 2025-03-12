@@ -6,7 +6,7 @@ Este repositório agrupa as entregas realizadas do projeto HungryHub na discipli
 
 **Link das entregas:**
 
-- [UnBArqDsw2024-2 (Organização ou Github da disciplina)](https://github.com/UnBArqDsw2024-2)
+- [UnBArqDsw2024-2 (Organização/Github da disciplina)](https://github.com/UnBArqDsw2024-2)
 
 - [Entrega 01 (Base)](https://github.com/UnBArqDsw2024-2/2024.2_G7_Entrega_Entrega_01)
 - [Entrega 02 (Modelagem)](https://github.com/UnBArqDsw2024-2/2024.2_G7_Entrega_Entrega_02)
@@ -30,3 +30,33 @@ Este repositório agrupa as entregas realizadas do projeto HungryHub na discipli
 | [Lucas Martins Gabriel](https://github.com/martinsglucas) | <img width="100" src="https://github.com/martinsglucas.png" style="border-radius: 50px"/> |
 | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) | <img width="100" src="https://github.com/raquel-andrade.png" style="border-radius: 50px"/> |
 | [Wolfgang Friedrich Stein](https://github.com/Wolffstein) | <img width="100" src="https://github.com/Wolffstein.png" style="border-radius: 50px"/> |
+
+## 📚 Documentação
+
+Documentação gerada pelo MKDocs.
+
+## Instalar e inicializar mkdocs
+1. instalar o python e instalar o pip
+
+```bash
+sudo apt install python3
+python3 --version
+```
+```bash
+sudo apt install python3-pip -y
+pip3 --version
+```
+
+2. instalar o mkdocs e mkdocs materials usando o pip
+
+```bash
+pip3 install mkdocs
+pip3 install mkdocs-material
+```
+
+3. Comando para iniciar o projeto localmente:
+
+```bash
+mkdocs serve
+```
+- `localhost:8000`
