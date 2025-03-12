@@ -42,6 +42,23 @@ nav:
       - Casos de Uso Cliente: Modelagem/ModelagemOrganizacional/CasosDeUsoCliente.md
       - Casos de Uso Loja: Modelagem/ModelagemOrganizacional/DiagramaCasosDeUsoLoja.md
       - Casos de Uso Entregador: Modelagem/ModelagemOrganizacional/CasosDeUsoEntregador.md
-  # - Modelagem:
-  # - Padrões de Projeto:
+    - 2.4 Artefatos Extras:
+      - Baseline: Modelagem/Extra/Baseline.md
+      - Priorização: Modelagem/Extra/Priorizacao/Priorizacao.md
+      - Léxicos: Modelagem/Extra/Lexicos.md
+      - Especificação Suplementar: Modelagem/Extra/especificacao-suplementar.md
+      - Cenários:
+        - Introdução: Modelagem/Extra/Cenarios/introducao.md
+        - Cenários Elicitados: Modelagem/Extra/Cenarios/cenarios.md
+      - Elicitação:
+        - Elicitação: Modelagem/Extra/Elicitacao/Elicitacao.md
+        - Entrevistas: Modelagem/Extra/Elicitacao/Entrevistas.md
+      - Modelagem Ágil:
+        - Backlog: Modelagem/Extra/ModelagemAgil/Backlog.md
+        - Priorização das USs: Modelagem/Extra/ModelagemAgil/Priorizacaous.md
+      - Validação do Protótipo: Modelagem/Extra/ValidacaoPrototipo.md
+      - Diagrama Modelo Relacional: Modelagem/Extra/DiagramaModeloRelacional.md
+      
+  # - 3. Padrões de Projeto:
+    # - 
   # - Documento de Arquitetura de Software:
