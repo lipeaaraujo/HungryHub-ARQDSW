@@ -1,10 +1,9 @@
 # HungryHub
 
-## 📃 Informações acadêmicas
+## 💡 Sobre 
+O HungryHub é um aplicativo de entrega/delivery de comida, lanches e bebidas, que oferece acessibilidade e conveniência para clientes, entregadores e estabelecimentos por meio de uma plataforma simples e interativa com uma lógistica de entrega rápida e eficiente.
 
-**Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: 07<br>
-**Entrega**: 02<br>
+Essa documentação visa armazenar e documentar todos os artefatos produzidos e resultados durante as quatro entregas do grupo 07 da disciplina de Arquitetura e Desenho de Software, ministrada pela professora Milene Serrano no segundo semestre letivo de 2024 na Universidade de Brasília (UnB).
 
 ## 👥 Alunos
 
@@ -24,22 +23,19 @@
 | 211062437   | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) | <img width="100" src="https://github.com/raquel-andrade.png" style="border-radius: 50px"/> |
 | 231032121   | [Wolfgang Friedrich Stein](https://github.com/Wolffstein) | <img width="100" src="https://github.com/Wolffstein.png" style="border-radius: 50px"/> |
 
-## 💡 Sobre 
-O HungryHub é um aplicativo de entrega/delivery de comida, lanches e bebidas, que oferece acessibilidade e conveniência para clientes, entregadores e estabelecimentos por meio de uma plataforma simples e interativa com uma lógistica de entrega rápida e eficiente.
+## 📃 Informações acadêmicas
 
-Essa documentação visa armazenar e documentar todos os artefatos produzidos e resultados do desenvolvimento da primeira entrega do grupo 07 da disciplina de Arquitetura e Desenho de Software, ministrada pela professora Milene Serrano no segundo semestre letivo de 2024 na Universidade de Brasília (UnB). A segunda entrega se refere ao módulo **Modelagem** das diretrizes do projeto incluindo aos focos de **Modelagem Estática** & **Modelagem Dinâmica** & **Modelagem Organizacional/Casos de Uso**.
+**Código da Disciplina**: FGA0208<br>
+**Número do Grupo**: 07<br>
+**Entrega**: 02<br>
 
 </center>
 
-## Há algo a ser executado?
+## Execução do ambiente
 
-(X) SIM
+O ambiente de desenvolvimento do projeto foi configurado e pode ser encontrado na pasta **src/** do repositório. Na pasta foi criado um documento para auxiliar a configurar o ambiente de desenvolvimento e executar o projeto.
 
-( ) NÃO
-
-O ambiente de desenvolvimento do projeto foi configurado e pode ser encontrado na branch [dev](https://github.com/UnBArqDsw2024-2/2024.2_G7_Entrega_Entrega_02/tree/dev) do repositório. Na branch foi criado um documento para auxiliar a configurar o ambiente de desenvolvimento e executar o projeto.
-
-### Back
+### Backend
 
 1. Entre na pasta do projeto:
 
@@ -79,7 +75,7 @@ O ambiente de desenvolvimento do projeto foi configurado e pode ser encontrado n
 Os endpoints disponíveis estão em:
 `localhost:8000/api/swagger`
 
-### Front
+### Frontend
 
 1. Entre na pasta do projeto:
    
