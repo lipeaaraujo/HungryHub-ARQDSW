@@ -1,6 +1,27 @@
 site_name: HungryHub
-theme: 
+repo_name: "HungryHub-ARQDSW"
+repo_url: https://github.com/lipeaaraujo/HungryHub-ARQDSW
+
+theme:
+  logo: assets/logo.png
+  favicon: assets/logo.png
   name: material
+  language: pt
+  palette:
+    - scheme: default
+      primary: red
+      accent: indigo
+      toggle:
+        icon: material/weather-night 
+        name: Modo escuro
+        
+    - scheme: slate
+      primary: red
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+
 
 nav:
   - Home: index.md
