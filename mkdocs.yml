@@ -85,4 +85,6 @@ nav:
       - Elos de Casos de Uso: PadroesDeProjeto/Extra/ElosCasos.md
       - Elos de Cenários: PadroesDeProjeto/Extra/ElosCenarios.md
       - Elos de Histórias de Usuário: PadroesDeProjeto/Extra/ElosHistorias.md
-  # - Documento de Arquitetura de Software:
+  - 4. Arquitetura e Reutilização de Software:
+    - Módulo Arquitetura e Reutilização: ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md
+    - 4.1. Documento de Arquitetura de Software: ArquiteturaReutilizacao/4.1.DAS.md
